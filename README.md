@@ -9,13 +9,13 @@
   <img src="https://img.shields.io/badge/Languages-English-purple" />
 </p>
 
-Soy una desarrolladora apasionada por el **frontend y backend**, en constante aprendizaje. Actualmente, estoy aprendiendo **Python con Django y JavaScript con React**, y mejorando mi nivel de inglés.  
+Soy una desarrolladora apasionada por el **frontend y backend**, en constante aprendizaje. Actualmente, estoy aprendiendo **JavaScript con React**, y mejorando mi nivel de inglés.  
 
 🛠️ **Tecnologías que uso:**  
-- Frontend: React, Bootstrap, semantic, material UI, JavaScript, HTML, CSS  
+- Frontend: React, Bootstrap, semantic, material UI, JavaScript, HTML, CSS, Tailwind CSs
 - Backend: Python, Django, Node.js  
 - Bases de datos: MySQL, PostgreSQL  
-- Herramientas: Git, Docker, Linux, VS Code  
+- Herramientas: Git, Docker, Linux, VS Code, Trello, IntelliJ
 
 
 <br>
