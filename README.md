@@ -11,7 +11,7 @@
 
 Desarrolladora Full Stack con enfoque en la construcción de aplicaciones web modernas, combinando interfaces dinámicas con backends robustos y mantenibles. 
 
-🛠️ **Conocimientos:**  
+ **Conocimientos:**  
 - Desarrollo frontend y backend
 - Diseño y consumo de APIs REST
 - Modelado de datos
@@ -39,7 +39,7 @@ Desarrolladora Full Stack con enfoque en la construcción de aplicaciones web mo
 - SQL
 - NoSQL
 
-** Herramientas & Ecosistema **
+**Herramientas & Ecosistema**
 
 - Git & GitHub (versionamiento y flujo colaborativo)
 - Docker (entornos reproducibles)
@@ -61,6 +61,10 @@ Desarrolladora Full Stack con enfoque en la construcción de aplicaciones web mo
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="Database"/>
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40" alt="Cypress"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
 
 
 
