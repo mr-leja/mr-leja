@@ -9,13 +9,42 @@
   <img src="https://img.shields.io/badge/Languages-English-purple" />
 </p>
 
-Soy una desarrolladora apasionada por el **frontend y backend**, en constante aprendizaje. Actualmente, estoy aprendiendo **JavaScript con React**, y mejorando mi nivel de inglés.  
+Desarrolladora Full Stack con enfoque en la construcción de aplicaciones web modernas, combinando interfaces dinámicas con backends robustos y mantenibles. 
 
-🛠️ **Tecnologías que uso:**  
-- Frontend: React, Bootstrap, semantic, material UI, JavaScript, HTML, CSS, Tailwind CSs
-- Backend: Python, Django, Node.js  
-- Bases de datos: MySQL, PostgreSQL  
-- Herramientas: Git, Docker, Linux, VS Code, Trello, IntelliJ
+🛠️ **Conocimientos:**  
+- Desarrollo frontend y backend
+- Diseño y consumo de APIs REST
+- Modelado de datos
+- Validación de flujos y manejo de errores
+- Fundamentos de aseguramiento de calidad (QA)
+
+  🛠️ **Stack tecnologico:**
+  
+  **Frontend**
+
+- React (Hooks, manejo de estado)
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Tailwind CSS
+- Bootstrap / Material UI / Semantic UI
+
+ **Backend**
+
+- Python (Django)
+- Node.js (APIs REST)
+- Java
+- 
+**Bases de Datos**
+
+- SQL
+- NoSQL
+
+** Herramientas & Ecosistema **
+
+- Git & GitHub (versionamiento y flujo colaborativo)
+- Docker (entornos reproducibles)
+- VS Code / IntelliJ IDEA
+- Trello (gestión ágil)
 
 
 <br>
